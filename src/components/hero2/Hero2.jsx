@@ -18,7 +18,12 @@ function Hero2() {
         <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Эффективные проекты стоят дешевле и завершаются в срок.</p>
       </div>
 
-      
+      {/* 3 */}
+      <div className="text-center">
+        <img src={frame} alt="frame" />
+        <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Повышение эффективности</h4>
+        <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Эффективные проекты стоят дешевле и завершаются в срок.</p>
+      </div>
     </div>
   )
 }
