@@ -14,7 +14,7 @@ function Hero2() {
       {/* 2 */}
       <div className="text-center">
         <img src={frame} alt="frame" />
-        <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Повышение эффективности</h4>
+        <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Снижение потерь</h4>
         <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Тщательно отслеживайте движение стройматериалов, чтобы избежать краж и повреждений.</p>
       </div>
 
