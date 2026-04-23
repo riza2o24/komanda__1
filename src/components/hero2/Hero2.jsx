@@ -15,14 +15,14 @@ function Hero2() {
       <div className="text-center">
         <img src={frame} alt="frame" />
         <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Повышение эффективности</h4>
-        <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Эффективные проекты стоят дешевле и завершаются в срок.</p>
+        <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Тщательно отслеживайте движение стройматериалов, чтобы избежать краж и повреждений.</p>
       </div>
 
       {/* 3 */}
       <div className="text-center">
         <img src={frame} alt="frame" />
-        <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Повышение эффективности</h4>
-        <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Эффективные проекты стоят дешевле и завершаются в срок.</p>
+        <h4 className="text-[#212B31] text-[18px] font-[400] mt-[20px] mb-[10px] ">Повышение безопасности</h4>
+        <p className="text-[#72787D] w-[325px] text-[16px] font-[400]  ">Обеспечьте здоровье и благополучие людей, работающих на вашей площадке.</p>
       </div>
     </div>
   )
