@@ -2,7 +2,6 @@
  function Bahridin() {
   return (
     <div>
-      bahridin
     </div>
   )
 }
