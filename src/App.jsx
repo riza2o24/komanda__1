@@ -9,7 +9,9 @@ import Muslimbek from "./components/muslimbek/muslimbek"
 import Muslimbek2 from "./components/muslimbek2/Muslimbek2"
 import Opaga from "./components/opaga/Opaga"
 import Oysha from "./components/oysha/Oysha"
-import Oysha2 from "./components/oysha2/Oysha2"
+import Oysha3 from "./components/oysha/Oysha3"
+import Oysha4 from "./components/oysha/Oysha4"
+import Oysha2 from "./components/oysha/Oysha2"
 import Shoxruhbek from "./components/shoxruhbek/Shoxruhbek"
 import Shoxruhbek2 from "./components/shoxruhbek2/Shoxruhbek2"
 
@@ -24,6 +26,8 @@ function App() {
       <Bahridin2/>
       <Oysha2/>
       <Oysha/>
+      <Oysha3/>
+      <Oysha4/>
       <Shoxruhbek/>
       <Shoxruhbek2/>
       <Muslimbek/>
