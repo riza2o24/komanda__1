@@ -1,7 +1,7 @@
 
  function Alisher2() {
   return (
-    <div>
+    <div >
       
     </div>
   )
