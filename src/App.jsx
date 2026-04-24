@@ -8,7 +8,6 @@ import Hero2 from "./components/hero2/Hero2"
 import Muslimbek from "./components/muslimbek/muslimbek"
 import Muslimbek2 from "./components/muslimbek2/Muslimbek2"
 import Opaga from "./components/opaga/Opaga"
-import Opaga2 from "./components/opaga2/Opaga2"
 import Oysha from "./components/oysha/Oysha"
 import Oysha2 from "./components/oysha2/Oysha2"
 import Shoxruhbek from "./components/shoxruhbek/Shoxruhbek"
@@ -32,7 +31,6 @@ function App() {
       <Alisher/>
       <Alisher2/>
       <Opaga/>
-      <Opaga2/>
     </div>
   )
 }
